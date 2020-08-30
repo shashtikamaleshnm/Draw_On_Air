@@ -7,10 +7,6 @@ cap.set(3, frameWidth)
 cap.set(4, frameHeight)
 cap.set(10, 150)
 
-# myColor = [[0, 17, 162, 255, 89, 255],     # Orange
-#             [107, 126, 255, 255, 39, 255],   # Blue
-#             [0, 166, 240, 255, 73, 255]]    # Green
-
 myColors = [[0, 162, 89, 17, 255, 255],      # Orange
             [107, 255, 7, 126, 255, 255],   # Blue
             [1, 240, 73, 166, 255, 255]]     # Green
