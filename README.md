@@ -1,3 +1,3 @@
 # Draw On Air
 
-Write text in air with different colored pens/sketches
+Write in air with different colored pens/sketches and the computer draws on the screen.
